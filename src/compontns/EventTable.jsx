@@ -3,7 +3,7 @@ import bgArrow from "../assets/Arrow.png";
 
 function EventTable({ eventRequests }) {
   return (
-    <div className="bg-black/20 rounded-lg  overflow-auto h-[800px]">
+    <div className="bg-black/20 rounded-lg  overflow-auto h-[800px] scrollb">
       <table className="min-w-full border-collapse text-xs">
         <thead className="bg-[#D960B6] text-white">
           <tr>

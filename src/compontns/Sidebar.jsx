@@ -15,7 +15,7 @@ function Sidebar() {
   };
 
   return (
-    <div className="w-64 mr-9 p-4 text-sm h-[760px]">
+    <div className="w-64 mr-9 p-4 text-sm  h-[760px]">
       <div>
         <button
           className={`flex items-center h-10 rounded-md p-3 justify-between w-[170px] border border-[#D960B6] font-medium mb-2 ${

@@ -1,1 +1,18 @@
 @import "tailwindcss";
+
+
+
+.scrollb {
+    overflow-y: scroll; 
+    max-height: 865px; 
+  }
+  
+  
+  .scrollb::-webkit-scrollbar {
+    width: 0; 
+  }
+  
+  
+  .scrollb {
+    scrollbar-width: none; 
+  }
